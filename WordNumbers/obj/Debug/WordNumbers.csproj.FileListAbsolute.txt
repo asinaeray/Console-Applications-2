@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\WordNumbers\bin\Debug\WordNumbers.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\WordNumbers\bin\Debug\WordNumbers.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\WordNumbers\bin\Debug\WordNumbers.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\WordNumbers\obj\Debug\WordNumbers.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\WordNumbers\obj\Debug\WordNumbers.pdb

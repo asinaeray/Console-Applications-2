@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\FahrenheitCalculation\bin\Debug\FahrenheitCalculation.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\FahrenheitCalculation\bin\Debug\FahrenheitCalculation.exe
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\FahrenheitCalculation\bin\Debug\FahrenheitCalculation.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\FahrenheitCalculation\obj\Debug\FahrenheitCalculation.exe
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\FahrenheitCalculation\obj\Debug\FahrenheitCalculation.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\FahrenheitCalculation\obj\Debug\FahrenheitCalculation.csprojResolveAssemblyReference.cache

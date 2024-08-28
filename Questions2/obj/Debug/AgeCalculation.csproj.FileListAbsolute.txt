@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\Questions2\bin\Debug\Questions2.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\Questions2\bin\Debug\Questions2.exe
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\Questions2\bin\Debug\Questions2.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\Questions2\obj\Debug\AgeCalculation.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\Questions2\obj\Debug\Questions2.exe
+c:\users\pc\documents\visual studio 2015\Projects\Questions2\Questions2\obj\Debug\Questions2.pdb

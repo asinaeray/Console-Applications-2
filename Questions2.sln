@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculation", "Questions2\AgeCalculation.csproj", "{EE692694-B160-4EA3-A429-2897FC9E54CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrenheitCalculation", "FahrenheitCalculation\FahrenheitCalculation.csproj", "{4F508690-6AB6-489E-B3AA-A297A5BF1032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyİndexCalculation", "BodyİndexCalculation\BodyİndexCalculation.csproj", "{498FEF82-836B-43AA-9529-100BA848FBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid", "MultiplicationTable\StarPyramid.csproj", "{9B0E5831-67B5-4307-8E2E-96B23661B012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordNumbers", "WordNumbers\WordNumbers.csproj", "{ED5A657A-733B-4D88-8B51-93B47A1A61EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWordİnFind", "LongestWordİnFind\LongestWordİnFind.csproj", "{72A08564-8D03-4845-8D9A-EAFE492A92E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE692694-B160-4EA3-A429-2897FC9E54CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE692694-B160-4EA3-A429-2897FC9E54CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE692694-B160-4EA3-A429-2897FC9E54CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE692694-B160-4EA3-A429-2897FC9E54CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F508690-6AB6-489E-B3AA-A297A5BF1032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F508690-6AB6-489E-B3AA-A297A5BF1032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F508690-6AB6-489E-B3AA-A297A5BF1032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F508690-6AB6-489E-B3AA-A297A5BF1032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498FEF82-836B-43AA-9529-100BA848FBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498FEF82-836B-43AA-9529-100BA848FBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498FEF82-836B-43AA-9529-100BA848FBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498FEF82-836B-43AA-9529-100BA848FBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0E5831-67B5-4307-8E2E-96B23661B012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0E5831-67B5-4307-8E2E-96B23661B012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0E5831-67B5-4307-8E2E-96B23661B012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0E5831-67B5-4307-8E2E-96B23661B012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5A657A-733B-4D88-8B51-93B47A1A61EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5A657A-733B-4D88-8B51-93B47A1A61EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5A657A-733B-4D88-8B51-93B47A1A61EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5A657A-733B-4D88-8B51-93B47A1A61EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A08564-8D03-4845-8D9A-EAFE492A92E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A08564-8D03-4845-8D9A-EAFE492A92E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A08564-8D03-4845-8D9A-EAFE492A92E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A08564-8D03-4845-8D9A-EAFE492A92E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

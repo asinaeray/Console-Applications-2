@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\LongestWordİnFind\bin\Debug\LongestWordİnFind.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\LongestWordİnFind\bin\Debug\LongestWordİnFind.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\LongestWordİnFind\bin\Debug\LongestWordİnFind.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\LongestWordİnFind\obj\Debug\LongestWordİnFind.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\LongestWordİnFind\obj\Debug\LongestWordİnFind.pdb

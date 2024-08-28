@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Questions2\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
